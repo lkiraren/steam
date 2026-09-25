@@ -1,0 +1,2 @@
+PASS: patch changes only two intended methods; every repatched method and exception boundary matches the tested game; hooks verified; duplicate patch rejected. Game files unchanged; no backup created.
+PASS: unsupported game build rejected without changing the test fixture.
